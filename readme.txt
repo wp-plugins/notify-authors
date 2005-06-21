@@ -1,6 +1,6 @@
 = Notify authors =
 
-Tags: images, upload, album
+Tags: email, author, notification
 
 Contributors: Martin Laine
 
